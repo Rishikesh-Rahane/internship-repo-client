@@ -133,7 +133,7 @@ const Profile = () => {
       <div className="information-section">
         <div className="heading-section">
           <div className="line-1"></div>
-          <h1>What You'll Get</h1>
+          <h1>What You&apos;ll Get</h1>
           <div className="line-1"></div>
         </div>
 
